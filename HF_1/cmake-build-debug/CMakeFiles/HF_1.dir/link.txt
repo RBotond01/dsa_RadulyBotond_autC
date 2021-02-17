@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\HF_1.dir/objects.a
+C:\work\mingw\bin\ar.exe cr CMakeFiles\HF_1.dir/objects.a @CMakeFiles\HF_1.dir\objects1.rsp
+C:\work\mingw\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\HF_1.dir/objects.a -Wl,--no-whole-archive  -o HF_1.exe -Wl,--out-implib,libHF_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HF_1.dir\linklibs.rsp
