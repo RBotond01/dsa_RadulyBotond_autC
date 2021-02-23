@@ -1,0 +1,3 @@
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/functions/cmake-build-debug/CMakeFiles/functions.dir
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/functions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
