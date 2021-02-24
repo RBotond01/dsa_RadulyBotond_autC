@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_2/F1/function.c
+function.h
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_2/F1/function.h
+
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_2/F1/function.h
+
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_2/F1/main.c
+stdio.h
+-
+function.h
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_2/F1/function.h
+
