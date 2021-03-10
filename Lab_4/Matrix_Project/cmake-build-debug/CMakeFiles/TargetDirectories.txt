@@ -1,0 +1,3 @@
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_4/Matrix_Project/cmake-build-debug/CMakeFiles/Matrix_Project.dir
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_4/Matrix_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_4/Matrix_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
