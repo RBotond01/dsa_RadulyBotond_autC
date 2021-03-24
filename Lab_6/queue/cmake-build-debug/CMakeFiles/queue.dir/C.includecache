@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_6/queue/Functions.h
+
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_6/queue/main.c
+stdio.h
+-
+Functions.h
+C:/Users/Boti/Desktop/proghazi/dsa_RadulyBotond_autC/Lab_6/queue/Functions.h
+
